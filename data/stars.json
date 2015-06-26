@@ -1,0 +1,52 @@
+[
+  {
+    "id" : "6",
+    "x" : "765",
+    "y" : "498",
+    "name" : "Star 6 (Ebay)",    
+    "link" : "http://www.Ebay.com",
+    "description" : "This is Star 6"
+  },
+  {
+    "id" : "5",
+    "x" : "550",
+    "y" : "454",
+    "name" : "Star 5 (DI.FM)",    
+    "link" : "http://www.di.fm",
+    "description" : "This is Star 5"
+  },
+  {
+    "id" : "4",
+    "x" : "900",
+    "y" : "150",
+    "name" : "Star 4 (SCB)",    
+    "link" : "http://www.StarCityBrewing.com",
+    "description" : "This is Star 4"
+  },
+  {
+    "id" : "3",
+    "x" : "150",
+    "y" : "300",
+    "name" : "Star 3 (bing)",    
+    "link" : "http://www.bing.com",
+    "description" : "This is Star 3"
+  },
+  {
+    "id" : "2",
+    "x" : "420",
+    "y" : "123",
+    "name" : "Star 2 (yahoo)",    
+    "link" : "http://www.yahoo.com",
+    "description" : "This is Star 2"
+  },
+  {
+    "id" : "1",
+    "x" : "50",
+    "y" : "50",
+    "name" : "Star 1 (google)",    
+    "link" : "http://www.google.com",
+    "description" : "This is Star 1"
+  }
+  
+  
+]
